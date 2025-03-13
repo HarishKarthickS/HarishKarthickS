@@ -86,7 +86,7 @@
 
 ## 🎮 **Gamified Contributions** 🕹️  
 
-### 🐍 **Snake Game - Watch My Contributions Grow!**  
+### 🐍 **Snake Game - Watch My Contributions Eaten!**  
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output/snake.svg" alt="Snake animation" />
 </p>
