@@ -88,7 +88,7 @@
 
 ### 🐍 **Snake Game - Watch My Contributions Eaten!**  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output-1/snake.svg" alt="Snake animation" />
 </p>
 
 ### 👾 **Pac-Man Contribution Graph - Catch Those Contributions!**  
