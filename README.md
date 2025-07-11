@@ -82,6 +82,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishKarthickS&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=HarishKarthickS)
 ---
 
 ## 🎮 **Gamified Contributions** 🕹️  
