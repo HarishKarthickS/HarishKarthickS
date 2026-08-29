@@ -141,3 +141,21 @@ Manage library catalogs, members, borrowing, and returns.
   <a href="https://leetcode.com/u/Harish_Karthick/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="20" /></a>&nbsp;
   <a href="https://x.com/SHarishKar84950"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="20" /></a>
 </p>
+
+<br>
+
+<details>
+<summary><sub>lines that stuck with me</sub></summary>
+<br>
+
+> *If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be.*
+
+> *It's not who I am underneath, but what I do that defines me.*
+
+> *Why do we fall? So that we can learn to pick ourselves up.*
+
+> *The only thing we're allowed to do... is to believe that we won't regret the choice we made.*
+
+> *A person who cannot sacrifice everything, cannot change anything.*
+
+</details>
