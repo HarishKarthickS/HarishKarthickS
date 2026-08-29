@@ -2,65 +2,142 @@
   <img src="./assets/profile-hero.gif" alt="Harish Karthick S — software engineer and curious builder" width="100%" />
 </p>
 
+<br>
+
 <p align="center">
-  <a href="#selected-work">work</a> ·
-  <a href="#the-workbench">tools</a> ·
-  <a href="#after-hours">playground</a> ·
-  <a href="#say-hello">hello</a>
+Hey, I'm Harish. I write software — mostly web things with TypeScript and Python.<br>
+I like the part where a rough idea starts working and someone else finds it useful.
 </p>
 
-## A little about me
+<p align="center">
+<sub>I care about readable code, honest trade-offs, and being easy to work with.<br>
+I don't know everything, and I don't pretend to. I learn by building, asking questions, and making the next version better.</sub>
+</p>
 
-Hi, I’m Harish. I enjoy turning half-formed ideas into software that feels clear, useful, and considered.
+<br>
 
-My work moves between product interfaces, backend systems, and applied AI. I’m happiest when I can understand a real problem, make the complicated parts quieter, and ship something people can actually use.
+<p align="center">
+  <img src="./assets/divider.svg" width="150" alt="" />
+</p>
 
-> **What matters to me:** useful before impressive, clear before clever, and kind collaboration throughout.
+<br>
 
-## Selected work
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| | Project | Why it exists |
-| :---: | :--- | :--- |
-| 01 | **[PaperPilot](https://github.com/HarishKarthickS/PaperPilot)** · [live](https://veda-ai-assignment-web-sepia.vercel.app) | Helps teachers create, refine, and export assessments without wrestling with document formatting. |
-| 02 | **[Plately](https://github.com/HarishKarthickS/Plately)** · [live](https://mealplanners.vercel.app) | Gives families one calm place to plan meals, build grocery lists, and check nutrition. |
-| 03 | **[Qubic Risk Radar](https://github.com/HarishKarthickS/Qubic-Risk-Radar)** · [live](https://qubic-risk-radar.vercel.app) | Turns blockchain activity into timely, configurable alerts across the channels people already use. |
-| 04 | **[Sugar Spike Predictor](https://github.com/HarishKarthickS/sugar-spike-predictor)** | Explores population-specific glucose prediction with an explicit research-and-education focus. |
-| 05 | **[SmartPrep.AI](https://github.com/HarishKarthickS/SmartPrep.AI)** · [live](https://smart-prep-ai-eight.vercel.app) | Brings study notes, summaries, quizzes, and progress into one focused workspace. |
-| 06 | **[LuminaLib](https://github.com/HarishKarthickS/LuminaLib)** · [live](https://library-management-system-ivwwql1h3.vercel.app) | Makes everyday library work—catalogs, members, and circulation—simpler to manage. |
+<sup>01</sup>
 
-<p align="right"><a href="https://github.com/HarishKarthickS?tab=repositories">browse the rest →</a></p>
+**[PaperPilot](https://github.com/HarishKarthickS/PaperPilot)** · [demo](https://veda-ai-assignment-web-sepia.vercel.app)
 
-## The workbench
+Turn study material into question papers, answer keys, and exportable PDFs.
 
-I choose tools for the problem, not the résumé.
+<kbd>Next.js</kbd> <kbd>TypeScript</kbd>
 
-**Often:** `TypeScript` `JavaScript` `Python` `React` `Next.js` `Node.js`<br />
-**Data:** `PostgreSQL` `MongoDB` `Firebase`<br />
-**Also:** `Django` `Flask` `Docker` `GitHub Actions`
+</td>
+<td width="50%" valign="top">
 
-## After hours
+<sup>02</sup>
 
-A small, slightly unnecessary, completely delightful view of my contribution graph:
+**[Plately](https://github.com/HarishKarthickS/Plately)** · [demo](https://mealplanners.vercel.app)
+
+Plan meals as a family and keep one shared grocery list.
+
+<kbd>Next.js</kbd> <kbd>Firebase</kbd>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sup>03</sup>
+
+**[Qubic Risk Radar](https://github.com/HarishKarthickS/Qubic-Risk-Radar)** · [demo](https://qubic-risk-radar.vercel.app)
+
+Watch Qubic network events and push alerts to Discord, Telegram, or email.
+
+<kbd>Python</kbd> <kbd>React</kbd>
+
+</td>
+<td width="50%" valign="top">
+
+<sup>04</sup>
+
+**[Sugar Spike Predictor](https://github.com/HarishKarthickS/sugar-spike-predictor)**
+
+Estimate post-meal glucose with separate models for diabetic and non-diabetic data.
+
+<kbd>Flask</kbd> <kbd>XGBoost</kbd>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sup>05</sup>
+
+**[SmartPrep.AI](https://github.com/HarishKarthickS/SmartPrep.AI)** · [demo](https://smart-prep-ai-eight.vercel.app)
+
+Study notes, summaries, quizzes, and progress tracking in one workspace.
+
+<kbd>JavaScript</kbd> <kbd>OpenRouter</kbd>
+
+</td>
+<td width="50%" valign="top">
+
+<sup>06</sup>
+
+**[LuminaLib](https://github.com/HarishKarthickS/LuminaLib)** · [demo](https://library-management-system-ivwwql1h3.vercel.app)
+
+Manage library catalogs, members, borrowing, and returns.
+
+<kbd>JavaScript</kbd>
+
+</td>
+</tr>
+</table>
+
+<p align="right"><sub><a href="https://github.com/HarishKarthickS?tab=repositories">see everything →</a></sub></p>
+
+<br>
+
+<p align="center">
+<kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>Python</kbd> <kbd>React</kbd> <kbd>Next.js</kbd> <kbd>Node.js</kbd> <kbd>Django</kbd> <kbd>Flask</kbd> <kbd>PostgreSQL</kbd> <kbd>MongoDB</kbd> <kbd>Firebase</kbd> <kbd>Docker</kbd> <kbd>GitHub Actions</kbd>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="150" alt="" />
+</p>
+
+<br>
+
+<p align="center">
+<sub>I also let a snake and Pac-Man loose on my contribution graph.</sub>
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output-1/snake.svg" alt="Contribution graph drawn as a snake animation" />
 </p>
 
-<details>
-  <summary><strong>There is a Pac-Man version too</strong></summary>
-  <br />
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output/pacman-contribution-graph.svg" alt="Contribution graph drawn as a Pac-Man animation" />
-  </p>
-</details>
+<br>
 
-## Say hello
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output/pacman-contribution-graph.svg" alt="Contribution graph drawn as a Pac-Man animation" />
+</p>
 
-If something here was useful, you have an idea worth exploring, or you simply want to talk shop, I’d be glad to hear from you.
+<br>
 
-<p>
-  <a href="https://www.linkedin.com/in/harish-karthick-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/HarishKarthickS"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://leetcode.com/u/Harish_Karthick/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://x.com/SHarishKar84950"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<p align="center">
+<sub>If you're working on something interesting — or you spotted a better way to do something here — I'd enjoy hearing from you.</sub>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harish-karthick-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="20" /></a>&nbsp;
+  <a href="https://github.com/HarishKarthickS"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" height="20" /></a>&nbsp;
+  <a href="https://leetcode.com/u/Harish_Karthick/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" height="20" /></a>&nbsp;
+  <a href="https://x.com/SHarishKar84950"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" height="20" /></a>
 </p>
