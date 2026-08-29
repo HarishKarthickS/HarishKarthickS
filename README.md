@@ -1,50 +1,115 @@
-<div align="center">
+<h1 align="center">🌟 Welcome to Harish Karthick S' Dev Universe! 🚀</h1>
 
-# Harish Karthick S
-
-### Full-stack engineer building practical AI, SaaS, and data-driven products.
-
-[![GitHub](https://img.shields.io/badge/GitHub-HarishKarthickS-181717?style=flat-square&logo=github)](https://github.com/HarishKarthickS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harish%20Karthick%20S-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harish-karthick-s)
-
-</div>
-
-## About
-
-I turn product ideas into working software—from responsive interfaces and reliable APIs to AI-assisted workflows and machine-learning tools. I care about clear architecture, useful features, and software that is straightforward to run and maintain.
-
-- Building with **TypeScript, JavaScript, and Python**
-- Working across **React, Next.js, Node.js, Django, Flask, and PostgreSQL**
-- Interested in **applied AI, developer tools, SaaS, and open source**
-
-## Selected projects
-
-| Project | What it does | Stack | Demo |
-|---|---|---|---|
-| [PaperPilot](https://github.com/HarishKarthickS/PaperPilot) | Creates and exports AI-assisted assessments for teachers | TypeScript, Next.js | [Live](https://veda-ai-assignment-web-sepia.vercel.app) |
-| [Plately](https://github.com/HarishKarthickS/Plately) | Collaborative family meal planning with grocery lists and nutrition lookup | TypeScript, Next.js | [Live](https://mealplanners.vercel.app) |
-| [Qubic Risk Radar](https://github.com/HarishKarthickS/Qubic-Risk-Radar) | Monitors Qubic network activity and sends configurable alerts | Python | [Live](https://qubic-risk-radar.vercel.app) |
-| [Sugar Spike Predictor](https://github.com/HarishKarthickS/sugar-spike-predictor) | Predicts post-meal glucose using population-specific ML models | Python, Flask, XGBoost | [Live](https://sugar-spike-predictor-92g4.onrender.com) |
-| [SmartPrep.AI](https://github.com/HarishKarthickS/SmartPrep.AI) | AI study workspace for summaries, quizzes, and progress tracking | JavaScript | [Live](https://smart-prep-ai-eight.vercel.app) |
-| [LuminaLib](https://github.com/HarishKarthickS/LuminaLib) | Manages library catalogs, members, and circulation | JavaScript | [Live](https://library-management-system-ivwwql1h3.vercel.app) |
-
-## Toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,django,flask,postgres,mongodb,firebase,docker,git,github&perline=7" alt="TypeScript, JavaScript, Python, React, Next.js, Node.js, Django, Flask, PostgreSQL, MongoDB, Firebase, Docker, Git, and GitHub" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=900&lines=💻+Full-Stack+Wizard+%7C+AI+Mastermind+%7C+DevOps+Strategist;🎯+Problem+Solver+%7C+Hackathon+Champion+%7C+Open-Source+Contributor;🎮+Gamer+by+Night+%7C+Developer+by+Day+%7C+Tech+Explorer;🚀+On+a+Mission+to+Build+Next-Gen+Tech!" />
 </p>
 
-## More work
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ1bGFybWx6cHI0MWI4Y3JjeW5hZGNqd3N2MWZwcmxuaG9xd2tjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="500" height="400">
+</p>
 
-- [SnapShare](https://github.com/HarishKarthickS/SnapShare) — creative photo sharing with stories, filters, and communities
-- [InsurFlow](https://github.com/HarishKarthickS/InsurFlow) — multi-tenant insurance claims workflow
-- [Undercurrent](https://github.com/HarishKarthickS/undercurrent) — parent-visible learning companion for children
-- [Automation](https://github.com/HarishKarthickS/automation) — workspace automation tools and documentation
+---
 
-<div align="center">
+## 🚀 **Who is Harish?**
+- 🎓 **Software Engineer in Training** @ **Kalvium’s UG Program in CS**  
+- 💡 Passionate about **AI, Web Development, DevOps, and Open Source**  
+- 🛠️ **Currently Working on:** `SmartPrep` – An **AI-powered study companion!**  
+- 📚 **Learning:** `Django, RDBMS, REST, System Design, Cloud Computing, Kubernetes`  
+- 🎮 **Hobbies:** Gaming 🎮 | Coding 💻 | Hackathons 🏆 | Automating Everything 🤖  
+- 🌍 **Fun Fact:** My first **"Hello World!"** broke the compiler... on purpose.  
 
-### Let's connect
+---
 
-If a project interests you, open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/harish-karthick-s).
+## 🏆 **Achievements & Certifications**  
+🏅 **Full-Stack Developer Certified**  
+🏅 **AWS Cloud Practitioner (Ongoing)**  
+🏅 **Hackathon Champion (SIH Intercollege Winner)**  
+🏅 **Active C4GT Open-Source Contributor**  
+🏅 **Led 70+ Students in Tech Events & Workshops**  
+🏅 **Built a Real-Time Disaster Information Aggregation System for SIH**  
+🏅 **Top 1% on LeetCode & CodeChef**  
 
-</div>
+---
+
+## 🛠️ **Tech Stack - The Tools of a Dev Warrior**  
+
+### 🚀 **Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white">
+</p>
+
+### 🎨 **Frontend**
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/-Material UI-007FFF?style=flat&logo=mui&logoColor=white">
+</p>
+
+### 🔥 **Backend & Databases**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white">
+</p>
+
+### ⚙️ **DevOps & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black">
+</p>
+
+---
+
+## 📊 **GitHub Stats & Contributions**  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarishKarthickS&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+![](https://komarev.com/ghpvc/?username=HarishKarthickS)
+---
+
+## 🎮 **Gamified Contributions** 🕹️  
+
+### 🐍 **Snake Game - Watch My Contributions Eaten!**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output-1/snake.svg" alt="Snake animation" />
+</p>
+
+### 👾 **Pac-Man Contribution Graph - Catch Those Contributions!**  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+</p>
+
+---
+
+## 🎮 **Join My Dev Guild!**  
+
+<p align="center">
+  <a href="https://linkedin.com/in/harish-karthick-s"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/HarishKarthickS"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Harish_Karthick/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="mailto:harishkarthicks@email.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/SHarishKar84950"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://discord.gg/9P9Nc843"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
+---
+
+## 🌟 **"Every Great Developer Was Once a Beginner. Keep Leveling Up!"** 🚀  
