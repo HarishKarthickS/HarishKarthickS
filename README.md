@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/main/assets/profile-hero.svg" alt="Harish Karthick S — software engineer and curious builder" width="100%" />
+  <img src="./assets/profile-hero.gif" alt="Harish Karthick S — software engineer and curious builder" width="100%" />
 </p>
 
 <p align="center">
