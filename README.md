@@ -1,55 +1,62 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="Harish Karthick S — software engineer and curious builder" width="100%" />
+</p>
 
-# Harish Karthick S
+<p align="center">
+  <a href="#selected-work">work</a> ·
+  <a href="#the-workbench">tools</a> ·
+  <a href="#after-hours">playground</a> ·
+  <a href="#say-hello">hello</a>
+</p>
 
-**Software engineer building useful products across web, AI, and infrastructure.**
+## A little about me
 
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=20&center=true&vCenter=true&width=620&lines=TypeScript+%2F+Python+%2F+Product+Engineering;I+build+tools+that+solve+real+problems" alt="TypeScript, Python, and product engineering" />
+Hi, I’m Harish. I enjoy turning half-formed ideas into software that feels clear, useful, and considered.
 
-<br />
+My work moves between product interfaces, backend systems, and applied AI. I’m happiest when I can understand a real problem, make the complicated parts quieter, and ship something people can actually use.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ1bGFybWx6cHI0MWI4Y3JjeW5hZGNqd3N2MWZwcmxuaG9xd2tjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="380" alt="Developer at work" />
-
-</div>
-
-## What I build
-
-Most of my work sits at the intersection of product engineering and applied AI. I like taking a useful idea, shaping the experience, building the system behind it, and getting it into people’s hands.
-
-- Web products with React, Next.js, and TypeScript
-- APIs and data systems with Python, Node.js, and PostgreSQL
-- Practical ML and AI features that support a clear user need
+> **What matters to me:** useful before impressive, clear before clever, and kind collaboration throughout.
 
 ## Selected work
 
-| Project | Brief | Open |
-| :--- | :--- | :---: |
-| [PaperPilot](https://github.com/HarishKarthickS/PaperPilot) | Assessment creation and PDF export for teachers | [Live app](https://veda-ai-assignment-web-sepia.vercel.app) |
-| [Plately](https://github.com/HarishKarthickS/Plately) | Shared meal planning, grocery lists, and nutrition lookup | [Live app](https://mealplanners.vercel.app) |
-| [Qubic Risk Radar](https://github.com/HarishKarthickS/Qubic-Risk-Radar) | Network monitoring with configurable multi-channel alerts | [Live app](https://qubic-risk-radar.vercel.app) |
-| [Sugar Spike Predictor](https://github.com/HarishKarthickS/sugar-spike-predictor) | Population-specific post-meal glucose prediction | [Repository](https://github.com/HarishKarthickS/sugar-spike-predictor) |
-| [SmartPrep.AI](https://github.com/HarishKarthickS/SmartPrep.AI) | Study workspace with summaries, quizzes, and progress tracking | [Live app](https://smart-prep-ai-eight.vercel.app) |
-| [LuminaLib](https://github.com/HarishKarthickS/LuminaLib) | Library catalog, member, and circulation management | [Live app](https://library-management-system-ivwwql1h3.vercel.app) |
+| | Project | Why it exists |
+| :---: | :--- | :--- |
+| 01 | **[PaperPilot](https://github.com/HarishKarthickS/PaperPilot)** · [live](https://veda-ai-assignment-web-sepia.vercel.app) | Helps teachers create, refine, and export assessments without wrestling with document formatting. |
+| 02 | **[Plately](https://github.com/HarishKarthickS/Plately)** · [live](https://mealplanners.vercel.app) | Gives families one calm place to plan meals, build grocery lists, and check nutrition. |
+| 03 | **[Qubic Risk Radar](https://github.com/HarishKarthickS/Qubic-Risk-Radar)** · [live](https://qubic-risk-radar.vercel.app) | Turns blockchain activity into timely, configurable alerts across the channels people already use. |
+| 04 | **[Sugar Spike Predictor](https://github.com/HarishKarthickS/sugar-spike-predictor)** | Explores population-specific glucose prediction with an explicit research-and-education focus. |
+| 05 | **[SmartPrep.AI](https://github.com/HarishKarthickS/SmartPrep.AI)** · [live](https://smart-prep-ai-eight.vercel.app) | Brings study notes, summaries, quizzes, and progress into one focused workspace. |
+| 06 | **[LuminaLib](https://github.com/HarishKarthickS/LuminaLib)** · [live](https://library-management-system-ivwwql1h3.vercel.app) | Makes everyday library work—catalogs, members, and circulation—simpler to manage. |
 
-## Tools I use
+<p align="right"><a href="https://github.com/HarishKarthickS?tab=repositories">browse the rest →</a></p>
 
-`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Node.js` · `Django` · `Flask` · `PostgreSQL` · `MongoDB` · `Firebase` · `Docker` · `GitHub Actions`
+## The workbench
 
-## Contribution playground
+I choose tools for the problem, not the résumé.
 
-These are generated from my GitHub contribution graph.
+**Often:** `TypeScript` `JavaScript` `Python` `React` `Next.js` `Node.js`<br />
+**Data:** `PostgreSQL` `MongoDB` `Firebase`<br />
+**Also:** `Django` `Flask` `Docker` `GitHub Actions`
+
+## After hours
+
+A small, slightly unnecessary, completely delightful view of my contribution graph:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output-1/snake.svg" alt="Contribution graph drawn as a snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output/pacman-contribution-graph.svg" alt="Contribution graph drawn as a Pac-Man animation" />
-</p>
+<details>
+  <summary><strong>There is a Pac-Man version too</strong></summary>
+  <br />
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/HarishKarthickS/HarishKarthickS/output/pacman-contribution-graph.svg" alt="Contribution graph drawn as a Pac-Man animation" />
+  </p>
+</details>
 
-## Connect
+## Say hello
 
-The best place to reach me is LinkedIn. You can also find my code and problem-solving work below.
+If something here was useful, you have an idea worth exploring, or you simply want to talk shop, I’d be glad to hear from you.
 
 <p>
   <a href="https://www.linkedin.com/in/harish-karthick-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
