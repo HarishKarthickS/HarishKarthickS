@@ -34,7 +34,7 @@
 | **[PaperPilot](https://github.com/HarishKarthickS/PaperPilot)** | AI-assisted assessment creation and PDF export for teachers | [Demo](https://veda-ai-assignment-web-sepia.vercel.app) |
 | **[Plately](https://github.com/HarishKarthickS/Plately)** | Collaborative family meal planning, grocery lists, and nutrition lookup | [Demo](https://mealplanners.vercel.app) |
 | **[Qubic Risk Radar](https://github.com/HarishKarthickS/Qubic-Risk-Radar)** | Qubic network monitoring with configurable Discord, Telegram, and email alerts | [Demo](https://qubic-risk-radar.vercel.app) |
-| **[Sugar Spike Predictor](https://github.com/HarishKarthickS/sugar-spike-predictor)** | Population-specific post-meal glucose prediction using machine learning | [Demo](https://sugar-spike-predictor-92g4.onrender.com) |
+| **[Sugar Spike Predictor](https://github.com/HarishKarthickS/sugar-spike-predictor)** | Population-specific post-meal glucose prediction using machine learning | Unavailable |
 | **[SmartPrep.AI](https://github.com/HarishKarthickS/SmartPrep.AI)** | AI study workspace with summaries, quizzes, and progress tracking | [Demo](https://smart-prep-ai-eight.vercel.app) |
 | **[LuminaLib](https://github.com/HarishKarthickS/LuminaLib)** | Modern library management for catalogs, members, and circulation | [Demo](https://library-management-system-ivwwql1h3.vercel.app) |
 
